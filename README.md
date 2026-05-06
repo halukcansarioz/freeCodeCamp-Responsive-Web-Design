@@ -121,3 +121,5 @@ git push origin ozellik/tasarim-guncelleme
 ## Lisans
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 ```
+
+Bu haliyle hem **İçindekiler** kısmındaki `İletişim` bağlantısı çalışır hem de iletişim bilgileri düzgün bir biçimde listelenir.
