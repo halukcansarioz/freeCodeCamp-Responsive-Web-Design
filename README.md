@@ -16,7 +16,7 @@ Bu depo, **freeCodeCamp Responsive Web Design** sertifikasyon sürecinde gelişt
 - [Proje Yapısı](#proje-yapısı)
 - [Geliştirme Süreci](#geliştirme-süreci)
 - [Katkıda Bulunma](#katkıda-bulunma)
-- [İletişim](#iletişim)
+- [İletişim](#iletisim)
 - [Lisans](#lisans)
 
 ---
@@ -111,6 +111,7 @@ git push origin ozellik/tasarim-guncelleme
 
 ---
 
+<a name="iletisim"></a>
 ## İletişim
 **Haluk Can Sarıöz** - [GitHub Profilim](https://github.com/halukcansarioz)  
 **Proje Linki:** [https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design](https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design)
