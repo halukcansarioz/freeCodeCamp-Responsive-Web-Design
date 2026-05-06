@@ -1,64 +1,122 @@
-# 💻 freeCodeCamp Responsive Web Design
+# 📱 freeCodeCamp Responsive Web Design Projects
+### (freeCodeCamp Duyarlı Web Tasarımı Sertifika Projeleri)
 
-Welcome to my **freeCodeCamp Responsive Web Design** repository! This project contains the source code for the projects I built to complete the freeCodeCamp Responsive Web Design Certification. It showcases my ability to build accessible, responsive, and visually appealing web pages from scratch.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](#)
 
-## 👨🏼‍💻 About the Developer & Motivation
+Bu depo, **freeCodeCamp Responsive Web Design** sertifikasyon sürecinde geliştirilen projeleri içermektedir. Projeler; modern web tasarımının temelleri olan HTML5, CSS3, Flexbox ve CSS Grid yapılarını kullanarak tamamen duyarlı (responsive) arayüzler oluşturmaya odaklanır.
 
-I have been trying to improve myself since I graduated from Ankara University Computer Engineering. For this, I attend courses from online platforms. I have about 6 months of experience on Ruby on Rails as a Full Stack Developer. I am currently trying to improve myself in Front-end and Back-end. The courses I take are on these topics and I develop projects on my own. This repository showcases my foundational front-end projects built during my learning journey!
-
-## ✨ Projects Included
-
-This repository contains the five core projects required for the certification:
-1.  **Tribute Page:** A webpage honoring a subject, demonstrating basic HTML structure and image handling.
-2.  **Survey Form:** A user-friendly form collecting data with various HTML5 input types and validations.
-3.  **Product Landing Page:** A responsive promotional page featuring a fixed navbar, embedded video, and CSS flexbox/grid layouts.
-4.  **Technical Documentation Page:** A documentation layout with a sticky navigation menu on the left and content on the right.
-5.  **Personal Portfolio Webpage:** A responsive portfolio to showcase my projects, featuring CSS media queries for mobile-first design.
-
-## 🛠️ Tech Stack & Skills
-
-*   **HTML5:** Semantic HTML, forms, accessibility standards.
-*   **CSS3:** Cascading rules, variables, typography, colors.
-*   **Layouts:** CSS Flexbox & CSS Grid.
-*   **Responsive Design:** Media Queries, relative units (`vh`, `vw`, `em`, `rem`), and mobile-first workflow.
-*   **Version Control:** Git & GitHub
-
-## 🚀 Getting Started
-
-Since these are static web pages, you do not need any complex local server or dependencies to run them.
-
-### Installation & Viewing
-
-1.  **Clone the repository:**
-    
-    ```bash
-    git clone https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design.git
-    ```
-
-2.  **Navigate to the project directory:**
-
-    ```bash
-    cd freeCodeCamp-Responsive-Web-Design
-    ```
-
-3.  **Open the projects:**
-    Simply open the `index.html` file of any project folder directly in your favorite web browser (Chrome, Firefox, Safari, etc.) to view it.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! 
-Feel free to check the [issues page](https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design/issues) if you want to contribute or suggest UI/UX improvements.
-
-## 📜 License
-
-This project is open-source and available under the MIT License - see the LICENSE file for details.
-
-## 📫 Contact
-
-**Haluk Can Sarıöz**
-*   **GitHub:** [@HalukCanSarioz](https://github.com/HalukCanSarioz)
-*   **Email:** halukcansarioz19@gmail.com
-*   **LinkedIn:** [Haluk Can Sarıöz](https://www.linkedin.com/in/halukcansarioz)
+## 📚 İçindekiler
+- [Proje Hakkında](#proje-hakkında)
+- [Özellikler](#özellikler)
+- [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+- [Kurulum ve Kullanım](#kurulum-ve-kullanım)
+- [Proje Yapısı](#proje-yapısı)
+- [Geliştirme Süreci](#geliştirme-süreci)
+- [Katkıda Bulunma](#katkıda-bulunma)
+- [İletişim](#iletişim)
+- [Lisans](#lisans)
 
 ---
-*If you liked these projects or found them helpful for your own freeCodeCamp journey, please consider giving the repo a ⭐!*
+
+## Proje Hakkında
+Bu çalışma, web geliştirme yolculuğunun temelini oluşturan semantik HTML ve ileri seviye CSS tekniklerini pekiştirmek amacıyla hazırlanmıştır. Sertifika kapsamında tamamlanan başlıca projeler:
+* **Tribute Page:** Bir anma sayfası örneği.
+* **Survey Form:** Kullanıcı etkileşimli anket formu.
+* **Product Landing Page:** Ürün tanıtım ve satış sayfası.
+* **Technical Documentation:** Teknik dökümantasyon sayfası.
+* **Personal Portfolio:** Kişisel portfolyo ve proje sergileme alanı.
+
+* **Geliştirici:** Haluk Can SARIÖZ
+* **Sertifika Sağlayıcı:** freeCodeCamp.org
+
+---
+
+## Özellikler
+* **Responsive Layout:** Media Queries kullanılarak mobil, tablet ve masaüstü cihazlara tam uyum.
+* **Modern CSS Mimarisi:** Flexbox ve CSS Grid ile karmaşık yerleşim düzenleri.
+* **Accessibility:** Erişilebilirlik standartlarına uygun semantik etiket kullanımı.
+* **Cross-Browser Compatibility:** Tüm modern tarayıcılarda sorunsuz çalışma.
+
+---
+
+## Kullanılan Teknolojiler
+* **HTML5:** Sayfa iskeleti ve semantik yapı.
+* **CSS3:** Görselleştirme, layout yönetimi ve animasyonlar.
+* **CSS Flexbox & Grid:** Dinamik ve esnek hizalama sistemleri.
+* **Google Fonts:** Tipografi entegrasyonu.
+
+---
+
+## Kurulum ve Kullanım
+
+### 1. Depoyu Klonlayın
+```bash
+git clone https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design.git
+```
+
+### 2. Proje Dizinine Gidin
+```bash
+cd freeCodeCamp-Responsive-Web-Design
+```
+
+### 3. Uygulamayı Başlatın
+İstediğiniz projenin klasörüne girip `index.html` dosyasını tarayıcınızda açmanız yeterlidir:
+```bash
+# Örnek: Portfolyo projesini görüntülemek için
+cd Personal-Portfolio-Webpage
+open index.html  # veya dosyaya çift tıklayın
+```
+
+---
+
+## Proje Yapısı
+```text
+freeCodeCamp-Responsive-Web-Design/
+├── Tribute-Page/                # Anma Sayfası Projesi
+├── Survey-Form/                 # Anket Formu Projesi
+├── Product-Landing-Page/        # Ürün Tanıtım Sayfası Projesi
+├── Technical-Documentation/     # Teknik Dökümantasyon Projesi
+├── Personal-Portfolio/          # Kişisel Portfolyo Projesi
+└── README.md                    # Proje dökümantasyonu
+```
+
+---
+
+## Geliştirme Süreci
+
+### 1. Forklama
+Projeleri kendi tasarım anlayışınıza göre güncellemek için önce fork'layın.
+
+### 2. Yeni Dal (Branch) Oluşturma
+```bash
+git checkout -b ozellik/tasarim-guncelleme
+```
+
+### 3. Kodları Gönderme (Push)
+```bash
+git push origin ozellik/tasarim-guncelleme
+```
+
+---
+
+## Katkıda Bulunma
+1. Bu depoyu **Fork**'layın.
+2. Bir **Branch** oluşturun (`git checkout -b feature/YeniTasarim`).
+3. Değişikliklerinizi yapın ve **Commit** edin (`git commit -m 'Ekleme: Yeni tasarım'`).
+4. Kodlarınızı **Push**'layın (`git push origin feature/YeniTasarim`).
+5. Bir **Pull Request** açın.
+
+---
+
+## İletişim
+**Haluk Can Sarıöz** - [GitHub Profilim](https://github.com/halukcansarioz)  
+**Proje Linki:** [https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design](https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design)
+
+---
+
+## Lisans
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+```
