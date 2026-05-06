@@ -1,125 +1,124 @@
 # 📱 freeCodeCamp Responsive Web Design Projects
-### (freeCodeCamp Duyarlı Web Tasarımı Sertifika Projeleri)
+### (freeCodeCamp Responsive Web Design Certification Projects)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](#)
 
-Bu depo, **freeCodeCamp Responsive Web Design** sertifikasyon sürecinde geliştirilen projeleri içermektedir. Projeler; modern web tasarımının temelleri olan HTML5, CSS3, Flexbox ve CSS Grid yapılarını kullanarak tamamen duyarlı (responsive) arayüzler oluşturmaya odaklanır.
+This repository contains the projects developed during the **freeCodeCamp Responsive Web Design** certification. The projects focus on building fully responsive interfaces using modern web design fundamentals: HTML5, CSS3, Flexbox, and CSS Grid.
 
-## 📚 İçindekiler
-- [Proje Hakkında](#proje-hakkında)
-- [Özellikler](#özellikler)
-- [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
-- [Kurulum ve Kullanım](#kurulum-ve-kullanım)
-- [Proje Yapısı](#proje-yapısı)
-- [Geliştirme Süreci](#geliştirme-süreci)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [İletişim](#iletisim)
-- [Lisans](#lisans)
-
----
-
-## Proje Hakkında
-Bu çalışma, web geliştirme yolculuğunun temelini oluşturan semantik HTML ve ileri seviye CSS tekniklerini pekiştirmek amacıyla hazırlanmıştır. Sertifika kapsamında tamamlanan başlıca projeler:
-* **Tribute Page:** Bir anma sayfası örneği.
-* **Survey Form:** Kullanıcı etkileşimli anket formu.
-* **Product Landing Page:** Ürün tanıtım ve satış sayfası.
-* **Technical Documentation:** Teknik dökümantasyon sayfası.
-* **Personal Portfolio:** Kişisel portfolyo ve proje sergileme alanı.
-
-* **Geliştirici:** Haluk Can SARIÖZ
-* **Sertifika Sağlayıcı:** freeCodeCamp.org
+## 📚 Table of Contents
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation and Usage](#installation-and-usage)
+- [Project Structure](#project-structure)
+- [Development Process](#development-process)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [License](#license)
 
 ---
 
-## Özellikler
-* **Responsive Layout:** Media Queries kullanılarak mobil, tablet ve masaüstü cihazlara tam uyum.
-* **Modern CSS Mimarisi:** Flexbox ve CSS Grid ile karmaşık yerleşim düzenleri.
-* **Accessibility:** Erişilebilirlik standartlarına uygun semantik etiket kullanımı.
-* **Cross-Browser Compatibility:** Tüm modern tarayıcılarda sorunsuz çalışma.
+## About the Project
+This work was created to reinforce semantic HTML and advanced CSS techniques that form the foundation of web development. The main projects completed as part of the certification include:
+* **Tribute Page** – a commemoration page example.
+* **Survey Form** – an interactive user survey form.
+* **Product Landing Page** – a product introduction and sales page.
+* **Technical Documentation** – a technical documentation page.
+* **Personal Portfolio** – a personal portfolio and project showcase.
+
+* **Developer:** Haluk Can SARIÖZ
+* **Certification Provider:** freeCodeCamp.org
 
 ---
 
-## Kullanılan Teknolojiler
-* **HTML5:** Sayfa iskeleti ve semantik yapı.
-* **CSS3:** Görselleştirme, layout yönetimi ve animasyonlar.
-* **CSS Flexbox & Grid:** Dinamik ve esnek hizalama sistemleri.
-* **Google Fonts:** Tipografi entegrasyonu.
+## Features
+* **Responsive Layout** – full compatibility with mobile, tablet, and desktop devices using Media Queries.
+* **Modern CSS Architecture** – complex layouts with Flexbox and CSS Grid.
+* **Accessibility** – semantic tag usage that meets accessibility standards.
+* **Cross-Browser Compatibility** – works smoothly in all modern browsers.
 
 ---
 
-## Kurulum ve Kullanım
+## Technologies Used
+* **HTML5** – page skeleton and semantic structure.
+* **CSS3** – visualisation, layout management, and animations.
+* **CSS Flexbox & Grid** – dynamic and flexible alignment systems.
+* **Google Fonts** – typography integration.
 
-### 1. Depoyu Klonlayın
+---
+
+## Installation and Usage
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design.git
 ```
 
-### 2. Proje Dizinine Gidin
+### 2. Navigate to the Project Directory
 ```bash
 cd freeCodeCamp-Responsive-Web-Design
 ```
 
-### 3. Uygulamayı Başlatın
-İstediğiniz projenin klasörüne girip `index.html` dosyasını tarayıcınızda açmanız yeterlidir:
+### 3. Launch the Application
+Simply enter the folder of the project you want and open the `index.html` file in your browser:
 ```bash
-# Örnek: Portfolyo projesini görüntülemek için
+# Example: to view the Portfolio project
 cd Personal-Portfolio-Webpage
-open index.html  # veya dosyaya çift tıklayın
+open index.html  # or double‑click the file
 ```
 
 ---
 
-## Proje Yapısı
+## Project Structure
 ```text
 freeCodeCamp-Responsive-Web-Design/
-├── Tribute-Page/                # Anma Sayfası Projesi
-├── Survey-Form/                 # Anket Formu Projesi
-├── Product-Landing-Page/        # Ürün Tanıtım Sayfası Projesi
-├── Technical-Documentation/     # Teknik Dökümantasyon Projesi
-├── Personal-Portfolio/          # Kişisel Portfolyo Projesi
-└── README.md                    # Proje dökümantasyonu
+├── Tribute-Page/                # Tribute Page Project
+├── Survey-Form/                 # Survey Form Project
+├── Product-Landing-Page/        # Product Landing Page Project
+├── Technical-Documentation/     # Technical Documentation Project
+├── Personal-Portfolio/          # Personal Portfolio Project
+└── README.md                    # Project documentation
 ```
 
 ---
 
-## Geliştirme Süreci
+## Development Process
 
-### 1. Forklama
-Projeleri kendi tasarım anlayışınıza göre güncellemek için önce fork'layın.
+### 1. Fork
+Fork the repository first if you want to update the projects with your own design ideas.
 
-### 2. Yeni Dal (Branch) Oluşturma
+### 2. Create a New Branch
 ```bash
-git checkout -b ozellik/tasarim-guncelleme
+git checkout -b feature/design-update
 ```
 
-### 3. Kodları Gönderme (Push)
+### 3. Push the Code
 ```bash
-git push origin ozellik/tasarim-guncelleme
+git push origin feature/design-update
 ```
 
 ---
 
-## Katkıda Bulunma
-1. Bu depoyu **Fork**'layın.
-2. Bir **Branch** oluşturun (`git checkout -b feature/YeniTasarim`).
-3. Değişikliklerinizi yapın ve **Commit** edin (`git commit -m 'Ekleme: Yeni tasarım'`).
-4. Kodlarınızı **Push**'layın (`git push origin feature/YeniTasarim`).
-5. Bir **Pull Request** açın.
+## Contributing
+1. **Fork** this repository.
+2. Create a **Branch** (`git checkout -b feature/NewDesign`).
+3. Make your changes and **Commit** (`git commit -m 'Add: New design'`).
+4. **Push** your code (`git push origin feature/NewDesign`).
+5. Open a **Pull Request**.
 
 ---
 
-<a name="iletisim"></a>
-## İletişim
-**Haluk Can Sarıöz** - [GitHub Profilim](https://github.com/halukcansarioz)  
-**Proje Linki:** [https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design](https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design)
+<a name="contact"></a>
+## Contact
+**Haluk Can Sarıöz** – [My GitHub Profile](https://github.com/halukcansarioz)  
+**Project Link:** [https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design](https://github.com/halukcansarioz/freeCodeCamp-Responsive-Web-Design)
 
 ---
 
-## Lisans
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
-```
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-Bu haliyle hem **İçindekiler** kısmındaki `İletişim` bağlantısı çalışır hem de iletişim bilgileri düzgün bir biçimde listelenir.
+
